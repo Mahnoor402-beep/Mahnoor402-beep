@@ -1,30 +1,36 @@
+<!-- Typing SVG Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahnoor+Rehman;AI+Engineer+%7C+Emotion-Aware+Systems;Building+LifeLens+%F0%9F%A7%96%E2%99%82%EF%B8%8F%F0%9F%94%8E+Multimodal+Emotion+AI;Streamlit+%7C+Voice+%7C+Face+%7C+Text+ML+Lover" alt="Typing SVG" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Mahnoor Rehman</h1>
-<h3 align="center">AI | ML | Full-stack Enthusiast | Passionate Builder of LifeLens AI</h3>
+<!-- Intro Header -->
+<h1 align="center">Welcome to My GitHub Profile</h1>
+<p align="center">📍 Ajman, UAE | 🤖 Emotion-AI Builder | 🎯 Multimodal Machine Learning</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahnoor402-beep&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently building **LifeLens — a Multi-modal Emotion AI Assistant**
-- 🧠 Learning AI Deployment, Voice/Face Models, Streamlit, Hugging Face
-- 🌱 Passionate about personalized tech & applied machine learning
-- 💬 Ask me about AI agents, multimodal ML, and Streamlit apps
+
+- 🔭 Currently building **LifeLens** — a Multi-modal Emotion AI Assistant
+- 🧠 Focused on voice, face & text emotion models using open-source ML
+- 🌱 Learning full-stack AI deployment (Streamlit, Hugging Face Spaces)
+- 💬 Ask me about AI agents, emotion-aware systems, or Streamlit apps
 - 📫 Reach me at **mahnoor.rehman.official@gmail.com**
-- ⚡ Fun fact: I love blending creativity and tech to solve real-life problems!
+- ⚡ Fun fact: I love blending psychology, creativity & AI to build tools that "feel" you!
 
 ---
 
 ## 🧠 Core Focus Areas
 
-- Multimodal AI (text, voice, face)
-- Personalized Assistants
-- Real-time Emotion Detection
-- Applied NLP for Mental Health
+- 🎯 Multimodal Emotion Detection (Text + Voice + Face)
+- 🧘 Personalized Assistants for Mental Health
+- 🤝 AI with Empathy & Human-like Interaction
+- 🧩 Applied NLP + CNN + Audio ML
+- 🌐 Real-time AI with Streamlit & Hugging Face
 
 ---
 
@@ -42,17 +48,26 @@
 
 | Project | Description |
 |--------|-------------|
-| [🚀 LifeLens AI](https://github.com/MahnoorRehman11/lifelens-ai) | 🎯 Multi-modal Emotion AI assistant using text, voice, and face emotion detection |
-| [🎤 Voice Emotion Notebook](https://github.com/Mahnoor402-beep/VoiceEmotion) | 🎤 Model to detect emotion from audio |
-| [😐 Face Emotion Notebook](https://github.com/Mahnoor402-beep/FaceEmotion) | 😐 Detect emotion from facial expressions using CNN |
+| [LifeLens AI](https://github.com/MahnoorRehman11/lifelens-ai) | 🎯 Multi-modal Emotion AI assistant using text, voice, and face emotion detection |
+| [Voice Emotion Notebook](https://github.com/Mahnoor402-beep/VoiceEmotion) | 🎤 Detect emotion from audio using MFCC + classifiers |
+| [Face Emotion Notebook](https://github.com/Mahnoor402-beep/FaceEmotion) | 😐 CNN-based facial expression recognition |
+| [LifeLens App (Streamlit)](https://github.com/Mahnoor402-beep/lifelens-app) | 💻 UI layer for LifeLens powered by Streamlit |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor402-beep&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor402-beep&theme=radical" alt="streaks" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor402-beep&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahnoor402-beep&theme=radical" height="180" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
@@ -60,7 +75,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahnoor402-beep&theme=algolia&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahnoor402-beep&theme=algolia&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -72,6 +87,4 @@
 
 ---
 
-<p align="center">
-  <i>“Let’s make AI emotionally intelligent — one model at a time.”</i>
-</p>
+<p align="center"><i>“Let’s make AI emotionally intelligent — one model at a time.”</i></p>
