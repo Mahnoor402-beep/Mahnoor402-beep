@@ -1,17 +1,14 @@
 <p align="center">
-  <img src="https://github.com/Mahnoor402-beep/Mahnoor402-beep/blob/main/Mahnoor_Banner_Robotic.png" alt="Mahnoor Rehman Banner" width="90%">
+  <img src="https://github.com/Mahnoor402-beep/Mahnoor402-beep/blob/main/assets/Mahnoor_Banner_Robotic.png?raw=true" alt="Mahnoor Rehman Banner" width="90%">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Mahnoor+Rehman;AI+Engineer+%7C+LifeLens+Creator;Emotion+AI+%7C+Voice%2C+Text%2C+Face;Let's+build+empathetic+tech+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Mahnoor Rehman</h1>
+<h3 align="center">AI | ML | Full-stack Enthusiast | Passionate Builder of LifeLens AI</h3>
 
-<p align="center">
-📍 Pakistan | 🤖 AI for Emotion | 🎯 Multimodal Machine Learning  
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahnoor402-beep&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 ---
 
