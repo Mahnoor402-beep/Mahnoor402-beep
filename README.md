@@ -55,6 +55,13 @@
 </p>
 
 ---
+<p align="center">
+📍 Pakistan | 🤖 AI for Emotion | 🎯 Multimodal Machine Learning  
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahnoor402-beep&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" />
+</p>
+
 
 ## 🔗 Connect with Me
 
