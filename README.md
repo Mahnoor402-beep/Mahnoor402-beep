@@ -88,3 +88,39 @@
 ---
 
 <p align="center"><i>“Let’s make AI emotionally intelligent — one model at a time.”</i></p>
+---
+
+## 🚀 Try My App
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/MahnoorRehman11/lifelens-ai">
+    <img src="https://img.shields.io/badge/Try_LifeLens_AI-Demo_on_HuggingFace-orange?style=for-the-badge&logo=huggingface&logoColor=white" alt="LifeLens AI Demo"/>
+  </a>
+</p>
+
+---
+
+## 🎓 Certifications
+
+![Blockchain](https://img.shields.io/badge/Certified-Blockchain-blueviolet?style=flat-square)
+![Web3](https://img.shields.io/badge/Web3%20Developer-Ethereum-purple?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/ML-Practitioner-blue?style=flat-square)
+![Data Science](https://img.shields.io/badge/DataScience-Projects-teal?style=flat-square)
+![DApps](https://img.shields.io/badge/DApps%20Builder-Polygon-pink?style=flat-square)
+
+---
+
+## 🌱 Currently Learning
+
+- Whisper ASR 🤫 (for voice emotion enhancement)
+- ReAct & CodeAct Agents 🤖
+- Retrieval-Augmented Generation (RAG) 📚
+- LLM Fine-tuning with PEFT 🛠️
+- Real-time AI deployment (Streamlit + Hugging Face)
+
+---
+
+## 📬 Let’s Collaborate
+
+> *Open to Fall 2025 AI internships, research projects, and cool collabs in AI + Mental Health.*
+
