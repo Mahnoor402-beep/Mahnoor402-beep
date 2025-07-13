@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://github.com/Mahnoor402-beep/Mahnoor402-beep/blob/main/Mahnoor_Banner_Robotic.png" alt="Mahnoor Rehman Banner" width="90%">
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Mahnoor+Rehman;AI+Engineer+%7C+LifeLens+Creator;Emotion+AI+%7C+Voice%2C+Text%2C+Face;Let's+build+empathetic+tech+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Mahnoor Rehman</h1>
-<h3 align="center">AI | ML | Full-stack Enthusiast | Passionate Builder of LifeLens AI</h3>
-
+<p align="center">
+📍 Pakistan | 🤖 AI for Emotion | 🎯 Multimodal Machine Learning  
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahnoor402-beep&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -14,8 +20,17 @@
 - 🧠 Learning AI Deployment, Voice/Face Models, Streamlit, Hugging Face
 - 🌱 Passionate about personalized tech & applied machine learning
 - 💬 Ask me about AI agents, multimodal ML, and Streamlit apps
-📫 Reach me at **mahnoor.rehman.official@gmail.com** *(or whatever is correct for you)*
+- 📫 Reach me at **mahnoor.rehman.official@gmail.com**
 - ⚡ Fun fact: I love blending creativity and tech to solve real-life problems!
+
+---
+
+## 🧠 Core Focus Areas
+
+- Multimodal AI (text, voice, face)
+- Personalized Assistants
+- Real-time Emotion Detection
+- Applied NLP for Mental Health
 
 ---
 
@@ -33,9 +48,9 @@
 
 | Project | Description |
 |--------|-------------|
-| [LifeLens AI](https://github.com/MahnoorRehman11/lifelens-ai) | 🎯 Multi-modal Emotion AI assistant using text, voice, and face emotion detection |
-| [Voice Emotion Notebook](https://github.com/Mahnoor402-beep/VoiceEmotion) | 🎤 Model to detect emotion from audio |
-| [Face Emotion Notebook](https://github.com/Mahnoor402-beep/FaceEmotion) | 😐 Detect emotion from facial expressions using CNN |
+| [🚀 LifeLens AI](https://github.com/MahnoorRehman11/lifelens-ai) | 🎯 Multi-modal Emotion AI assistant using text, voice, and face emotion detection |
+| [🎤 Voice Emotion Notebook](https://github.com/Mahnoor402-beep/VoiceEmotion) | 🎤 Model to detect emotion from audio |
+| [😐 Face Emotion Notebook](https://github.com/Mahnoor402-beep/FaceEmotion) | 😐 Detect emotion from facial expressions using CNN |
 
 ---
 
@@ -48,22 +63,21 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahnoor402-beep&theme=algolia&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahnoor402-beep&theme=algolia&no-frame=true&no-bg=true" />
 </p>
 
 ---
-<p align="center">
-📍 Pakistan | 🤖 AI for Emotion | 🎯 Multimodal Machine Learning  
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahnoor402-beep&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" />
-</p>
-
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahnoor-rehman-abbasi/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahnoor.rehman.official@gmail.com)
+
+---
+
+<p align="center">
+  <i>“Let’s make AI emotionally intelligent — one model at a time.”</i>
+</p>
