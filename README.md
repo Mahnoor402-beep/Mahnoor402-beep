@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Mahnoor402-beep/Mahnoor402-beep/blob/main/assets/Mahnoor_Banner_Robotic.png?raw=true" alt="Mahnoor Rehman Banner" width="90%">
-</p>
 
 <h1 align="center">Hi 👋, I'm Mahnoor Rehman</h1>
 <h3 align="center">AI | ML | Full-stack Enthusiast | Passionate Builder of LifeLens AI</h3>
