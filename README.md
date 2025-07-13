@@ -1,7 +1,8 @@
 <!-- Typing SVG Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahnoor+Rehman;AI+Engineer+%7C+Emotion-Aware+Systems;Building+LifeLens+%F0%9F%A7%96%E2%99%82%EF%B8%8F%F0%9F%94%8E+Multimodal+Emotion+AI;Streamlit+%7C+Voice+%7C+Face+%7C+Text+ML+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahnoor+Rehman;AI+Engineer+%7C+Emotion+AI+Builder;LifeLens+-+Multimodal+Emotion+Assistant;Voice+%7C+Face+%7C+Text+Emotion+Models;Streamlit+%7C+Hugging+Face+%7C+TensorFlow" alt="Typing SVG" />
 </p>
+
 
 <!-- Intro Header -->
 <h1 align="center">Welcome to My GitHub Profile</h1>
